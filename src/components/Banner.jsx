@@ -56,7 +56,7 @@ export const Banner = () => {
             repeat: Infinity,
             repeatType: 'loop',
             ease: 'linear',
-            yoyo: Infinity, // This causes the animation to reverse and go back to the right
+            yoyo: Infinity, 
           }}
         >
           {items[2]}
